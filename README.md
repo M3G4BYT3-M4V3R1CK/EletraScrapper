@@ -30,10 +30,11 @@ apt upgrade
 pkg install git
 pkg install python
 ```
-2. Clone the EletraScrapper repository from GitHub:
+2. Clone the EletraScrapper repository from GitHub and change directory:
 
    ```bash
    git clone github.com/M3G4BYT3-M4V3R1CK/EletraScrapper
+   cd EletraScrappper
    ```
 3. Install the required dependencies:
 
